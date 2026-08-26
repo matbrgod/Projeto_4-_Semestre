@@ -1,3 +1,1 @@
-# Aula_0
-
-Developed with Unreal Engine 5
+Jogo 3D de Terror feito como Projeto Final do 4° Semestre do Bacharelado de Jogos Digitais da Puc-SP
